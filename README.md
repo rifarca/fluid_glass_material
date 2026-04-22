@@ -15,4 +15,4 @@ iOS-like fluid glass effect for Flutter with automatic performance adaptation.
 
 ```yaml
 dependencies:
-  fluid_glass_material: ^0.0.2
+  fluid_glass_material: ^0.0.3

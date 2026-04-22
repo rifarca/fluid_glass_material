@@ -1,9 +1,7 @@
 name: fluid_glass_material
 description: "iOS-like Fluid Glass Material with smart performance adaptation for Flutter widgets"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/rifarca/fluid_glass_material/
-authors:
-  - "Richard Arce <rifarca@gmail.com>"
 
 environment:
   sdk: ^3.11.4

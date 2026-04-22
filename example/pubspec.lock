@@ -61,10 +61,10 @@ packages:
     dependency: "direct main"
     description:
       name: fluid_glass_material
-      sha256: "47d1aa4cdedfde8c61a2551fa248cbb21584fea9a871fcca09997e946b6a002a"
+      sha256: "546416fb9f0730955f174216afb029f7f1b85dba51280c38ebd462a6d239c749"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1"
+    version: "0.0.2"
   flutter:
     dependency: "direct main"
     description: flutter
